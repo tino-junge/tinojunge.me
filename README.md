@@ -1,7 +1,7 @@
-tinojunge.me
+My personal website 
 ============
 
-Personal webpage of Tino Junge.
+http://tinojunge.me/
 
 Credits:
 	Design: 
