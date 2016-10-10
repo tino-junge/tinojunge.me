@@ -1,7 +1,7 @@
 My personal website 
 ============
 
-http://tinojunge.me/
+http://tino-junge.github.io/tinojunge.me/
 
 Credits:
 	Design: 
